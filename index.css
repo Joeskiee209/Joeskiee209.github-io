@@ -1,0 +1,35 @@
+nav {
+    margin: auto;
+    background-color: white;
+    color: black;
+    padding: 25px;
+
+
+}
+h1 {
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+h1.subtitle {
+    font-size: 14px;
+}
+
+body {
+    margin: auto;
+    background-color: #1A1A1A;
+    color: white;
+    align-items:  center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+    margin: auto;
+    width: 35%;
+    height: 25%;
+    
+    
+}
+.nav {
+    font-size: 35px;
+    padding-bottom: 3px;
+}
